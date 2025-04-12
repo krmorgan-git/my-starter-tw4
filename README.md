@@ -7,7 +7,7 @@ To clone this repository, use the following command:
 
 Install Dependencies:
 
-    npm install tailwindcss @tailwindcss/cli<br>
+    npm install tailwindcss @tailwindcss/cli
 
 
 Watch the CSS file:
