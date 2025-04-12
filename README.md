@@ -7,6 +7,7 @@ To clone this repository, use the following command:
 
 Install Dependencies:
 - This will create the node_modules folder with tailwindcss 4 files
+- Adds a dependencies section to the package.json file
 
       npm install tailwindcss @tailwindcss/cli
 
