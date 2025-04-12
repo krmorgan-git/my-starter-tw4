@@ -2,7 +2,7 @@
 This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects.
 ## Usage
 Clone the repo:<br>
-git clone<br>
+git clone https://github.com/krmorgan-git/my-starter-tw4.git<br>
 
 Install Dependencies<br>
 npm install tailwindcss @tailwindcss/cli<br>
