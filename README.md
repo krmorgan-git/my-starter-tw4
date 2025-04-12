@@ -12,7 +12,7 @@ Install Dependencies:
 
 Watch the CSS file:
 
-    npm run dev<br>
+    npm run dev
 
 This will watch the src/input.css file and build it to dist/css/style.css, which will be your final CSS file.
 
